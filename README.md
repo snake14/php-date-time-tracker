@@ -4,7 +4,6 @@ This is a basic PHP web page that allows recording the date/times that something
 ## Requirements
 * You must have a MySQL database setup. The database can be named whatever you want, but it needs to have a records table with 2 columns: id (int Auto Increment) and dt (datetime).
 * The database connection information is to be saved in the src/config/config.php file. There is a sample file in that same directory.
-* You have to create a Google API account and generate a client ID that can be used for OAuth authentication. That also goes in config.php.
 
 ## Setup
 * Clone this repository to your local machine.
